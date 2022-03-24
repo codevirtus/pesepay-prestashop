@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pesepay</name>
+    <displayName><![CDATA[Pesepay Gateway]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Pesepay helps businesses in Africa get paid by anyone, anywhere in the world.]]></description>
+    <author><![CDATA[Pesepay]]></author><author_uri><![CDATA[https://pesepay.com]]></author_uri>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to remove all your settings?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

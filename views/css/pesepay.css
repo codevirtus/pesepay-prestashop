@@ -1,0 +1,18 @@
+a.pesepay {
+    background: url(../img/pesepay-logo.svg) 10px 20px no-repeat #fbfbfb;
+    background-size: 86px 49px;
+}
+p.payment_module a.pesepay:after {
+    display: block;
+    content: "\f054";
+    position: absolute;
+    right: 15px;
+    margin-top: -11px;
+    top: 50%;
+    font-family: "FontAwesome";
+    font-size: 25px;
+    height: 22px;
+    width: 14px;
+    color: #777;
+}
+
