@@ -15,3 +15,9 @@ This PrestaShop Module facilitates the purchase of products on shops based on Pr
 2. Goto other ways to get paid
 3. Then third party shopping carts
 4. And generate an intergartion id and key which you will then enter in module’s configuration screen
+
+### Installation
+
+1. Download as zip or clone to any directory
+2. Rename zip to just pesepay and the internal folder to just pesepay if it is not already
+3. Install in prestashop as zip
